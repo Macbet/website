@@ -5,4 +5,6 @@ https://www.gitea.io/* https://gitea.io/:splat 302!
 / /pt-br/ 302! Language=pt-br
 / /zh-cn/ 302! Language=zh-cn
 / /zh-tw/ 302! Language=zh-tw
+/ /ru-ru/ 302! Language=ru-ru
 / /en-us/ 302!
+

@@ -192,33 +192,33 @@ languages:
           weight: 80
           pre: group
 
-  nl-nl:
+  ru-ru:
     weight: 4
-    languageName: Nederlands
+    languageName: Русский
     menu:
       page:
-        - name: Website
-          url: /nl-nl/
+        - name: Сайт
+          url: /ru-ru/
           weight: 10
           pre: home
           post: active
-        - name: Docs
-          url: https://docs.gitea.io/nl-nl/
+        - name: Документация
+          url: https://docs.gitea.io/ru-ru/
           weight: 20
           pre: question
         - name: API
           url: https://try.gitea.io/api/swagger
           weight: 45
           pre: plug
-        - name: Blog
+        - name: Блог
           url: https://blog.gitea.io/
           weight: 30
           pre: rss
-        - name: Code
+        - name: Код
           url: https://code.gitea.io/
           weight: 40
           pre: code
-        - name: Downloads
+        - name: Загрузки
           url: https://dl.gitea.io/
           weight: 50
           pre: download
@@ -226,11 +226,12 @@ languages:
           url: https://github.com/go-gitea/
           weight: 60
           pre: github
-        - name: Discord Chat
+        - name: Discord Чат
           url: https://discord.gg/NsatcWJ
           weight: 70
           pre: comment
-        - name: Forum
+        - name: Форум
           url: https://discourse.gitea.io/
           weight: 80
           pre: group
+

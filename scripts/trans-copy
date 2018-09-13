@@ -16,6 +16,7 @@ declare -a LOCALES=(
   "pt-br"
   "zh-cn"
   "zh-tw"
+  "ru-ru"
 )
 
 ROOT=$(realpath $(dirname $0)/..)
@@ -30,3 +31,4 @@ for SOURCE in $(find ${ROOT}/content -type f -iname *.en-us.md); do
     fi
   done
 done
+
